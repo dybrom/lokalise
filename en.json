@@ -1,5 +1,6 @@
 {
-  "GENERAL": "General",
-  "ADD_TEXT": "Add text",
-  "ADD_IMAGE": "Add image"
+    "welcome_header": "Hello world!",
+    "GENERAL": "General",
+    "ADD_TEXT": "Add text",
+    "ADD_IMAGE": "Add image"
 }
